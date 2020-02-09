@@ -1,0 +1,9 @@
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.Form1.resources
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\bin\Debug\zbrojTextbox.exe.config
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\bin\Debug\zbrojTextbox.exe
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\bin\Debug\zbrojTextbox.pdb
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.exe
+C:\Users\Korisnik\source\repos\zbrojTextbox\zbrojTextbox\obj\Debug\zbrojTextbox.pdb
